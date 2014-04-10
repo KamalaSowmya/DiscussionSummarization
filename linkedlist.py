@@ -2,7 +2,7 @@
 class Clusternode:
     def __init__(self):
        # self.data = data
-        self.next = None
+        self.next =None
         self.child=None
 
 class Sentencenode:
